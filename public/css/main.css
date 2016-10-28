@@ -1,0 +1,219 @@
+/*body {
+  background-color: red
+}*/
+
+/*.box{
+  border:1px solid black
+}*/
+
+.right-align {
+  text-align: right;
+}
+
+.zero-margin{
+  margin: 0;
+}
+
+
+.tiny-font {
+  font-size: 8pt
+}
+
+.eightypercent-width{
+  width: 80%;
+  border: 0;
+  height: 1px;
+  background: black;
+}
+
+.text-align-center{
+  margin-top: 1em;
+  text-align: center;
+}
+
+.time-font{
+  font-size: 2em;
+}
+
+.inline-block{
+  display: inline-block;
+}
+
+.danger-bg{
+  background-color: #B03060
+}
+
+.ready-bg{
+  background-color: rgba(182,205,29,0.8);
+  color: white;
+}
+
+.done-bg{
+  /*background-color: grey;*/
+  color: rgba(0,0,0,0.3)
+}
+
+.time-grid {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em
+}
+
+.big-icon-font{
+  font-size: 20pt
+}
+
+.med-icon-font{
+  font-size: 17pt
+}
+
+.transparent-input{
+  border: 0;
+  background: rgba(255, 0, 0, 0) ;
+  /*color: white !important*/
+}
+
+textarea:focus{
+  outline: none
+}
+/*
+textarea::-webkit-input-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+textarea:-moz-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+textarea::-moz-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+textarea:-ms-input-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+
+input::-webkit-input-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+input:-moz-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+input::-moz-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}
+
+input:-ms-input-placeholder {
+color: rgba(255,255,255,0.8) !important;
+}*/
+
+/*not working*/
+/*.channel-name:input::-webkit-input-placeholder {
+color: rgba(0,0,0,0.8) !important;
+}*/
+
+.hour-field{
+  width: 2.6em
+}
+.min-field{
+  text-align: center !important;;
+  width: 3.1em;
+  align: right
+}
+
+#newActivityNotes{
+  width: 100%;
+}
+
+.white-bg{
+  background-color: white;
+}
+
+.bottom-padding {
+  padding-bottom: 2em;
+}
+
+input:focus{
+  border-bottom: 1px solid white !important;
+}
+
+.padding-top-zero {
+  padding-top: 0 !important;
+}
+
+.margin-bottom-zero{
+  margin-bottom: 0 !important;
+}
+
+.full-width{
+  width: 100% !important
+}
+
+
+#canvas-basic {
+    position: fixed;
+    display: block;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: -10
+}
+
+.loginBox{
+  background-color: rgba(255,255,255,0.9);
+  text-align: center;
+  border-radius: 3px;
+  padding: 2em;
+  color: rgba(0,0,0,0.7)
+}
+
+.loginBox-container{
+  z-index: 10;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 7em;
+  text-align: center;
+}
+
+.logoFont{
+  padding-top: 0.7em;
+  font-family: 'Pacifico', cursive;
+  color: rgba(255,255,255,0.9);
+}
+
+.tiny-bottom-padding{
+  padding-bottom: 0.5em
+}
+
+.white-font{
+  color: rgba(255,255,255,0.9);
+}
+
+.white-background{
+  margin-top: 1em;
+  background-color: rgba(255,255,255,0.9)
+}
+
+.top-padding{
+  padding-top: 1em;
+}
+
+.all-round-padding{
+  padding: 1em;
+  border-radius: 3px;
+  box-shadow: 3px 3px 7px rgba(0,0,0,0.3);
+}
+
+.bottom-padding-zero {
+  padding-bottom: 0 !important
+}
+
+.top-padding-zero {
+  padding-top: 0 !important;
+}
