@@ -50,7 +50,7 @@ render: function(){
     )
   }else {
     return(
-      <div className="ui padded grid">
+      <div className="ui padded grid tiny-margin-left-right">
         <h1 className="logoFont inline-block">Task Force</h1>
 
         <h1 className="margin-bottom-zero inline-block white-font">//   {this.state.channel.name}</h1>
