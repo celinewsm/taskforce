@@ -89,7 +89,7 @@ var checklistFromServer = [
   },
   { id: 3,
     name: "Remind groom to buy flowers",
-    description: "Just because",
+    description: "Just bec",
     ic: "Maya",
     done: true, // ready>green & completed > grey, if in 5mins & still pending then red else change status to complete when time past
   },
