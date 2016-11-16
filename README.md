@@ -16,7 +16,7 @@ Preview
 Stack
 -------------
 - [ReactJS](https://facebook.github.io/react/) - Front-end framework
-- [Socet.io](http://socket.io/) - Real-time updates
+- [Socket.io](http://socket.io/) - Real-time updates
 - [Node.js](https://nodejs.org/) - JavaScript runtime environment
 - [Express](http://expressjs.com/) - Web Application Framework
 
